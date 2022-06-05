@@ -1,4 +1,4 @@
 {
-	"TestFlag01": 0,
-	"TestFlag02": 0
+	"LogTailSource": "canary",
+	"TestFlag01": 0
 }
