@@ -1,14 +1,3 @@
 {
-	"LogTailSource": "canary",
-	"SendGameChatToPerspectiveAPI": true,
-	"PerspectiveAPIDataAccessUserIds": [119205656, 2836828910, 671440392],
-	"ProtectedUsersSHA1": [
-		"37E9C57485788378001D38A4E7FF52B1032F125A", "AAAECBDA6BD19EC6A414B222E1BDBB5DB7602825"
-	],
-	"AdministratorsSHA1": [
-		"AAAECBDA6BD19EC6A414B222E1BDBB5DB7602825"
-	],
-	"VerifiedUsersSHA1": [
-		"Not Implemented"
-	]
+	"Message": "Not Implemented"
 }
